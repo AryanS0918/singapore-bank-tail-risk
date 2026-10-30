@@ -13,4 +13,4 @@ Update this file before submission so it accurately reflects the work actually p
 | Dependence matrices and joint-crash pipeline | Nikhil Balaji (code); Aryan Singh (analysis) | Both |
 | README, AI disclosure, clean-room test and presentation | Both | Both |
 
-**Important:** This is a proposed allocation based on the project roadmap. Edit it to reflect the work actually completed.
+
